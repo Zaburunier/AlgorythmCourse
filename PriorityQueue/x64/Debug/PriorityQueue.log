@@ -1,0 +1,2 @@
+﻿PriorityQueue.obj : error LNK2001: неразрешенный внешний символ ""private: static int Queue::length" (?length@Queue@@0HA)"
+D:\Проекты MSVS\ConsoleApplication3\x64\Debug\PriorityQueue.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

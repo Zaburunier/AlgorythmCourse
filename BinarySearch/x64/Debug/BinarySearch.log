@@ -1,0 +1,3 @@
+﻿  BinarySearch.cpp
+D:\Проекты MSVS\ConsoleApplication3\BinarySearch\BinarySearch.cpp(19,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  BinarySearch.vcxproj -> D:\Проекты MSVS\ConsoleApplication3\x64\Debug\BinarySearch.exe

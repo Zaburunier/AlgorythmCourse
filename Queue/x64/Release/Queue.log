@@ -1,0 +1,10 @@
+﻿  Queue.cpp
+D:\Проекты MSVS\ConsoleApplication3\Queue\Queue.cpp(91,11): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+D:\Проекты MSVS\ConsoleApplication3\Queue\Queue.cpp(91,11): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+D:\Проекты MSVS\ConsoleApplication3\Queue\Queue.cpp(91,11): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+D:\Проекты MSVS\ConsoleApplication3\Queue\Queue.cpp(91,11): message : этот аргумент используется в качестве размера буфера
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 72 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Queue.vcxproj -> D:\Проекты MSVS\ConsoleApplication3\x64\Release\Queue.exe
